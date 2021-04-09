@@ -2,7 +2,7 @@
   .wrap{
       width: 100%;
   }
-  .book-category .item{
-    padding-right: 30px;
+  .book-category {
+    display: none;
   }
 }
